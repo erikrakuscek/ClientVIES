@@ -5,5 +5,3 @@ This client calls VIES web service using SOAP. For more information on VIES serv
 Input Country code and VAT number to get name and address of the owner.
 
 ![Alt text](/images/request_response.jpg?raw=true "Optional Title")
-
->Made for Noema Cooperating by Erik Rakušček.
